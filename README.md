@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/amiya das" target="blank"><img align="center"
+    <a href="https://x.com/amiya__das?s=09" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="amiya das" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/amiya das" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/amiya-das-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="amiya das" height="30" width="40" /></a>
     <a href="https://instagram.com/__amiya__das__" target="blank"><img align="center"
