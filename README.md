@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiyadas01&label=Profile%20views&color=0e75b6&style=flat"
-        alt="amiyadas01" /> </p>
+        alt="amiyadas01" loop /> </p>
 
 - 🌱 I’m currently learning **front-end developing**
 
