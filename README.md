@@ -1,6 +1,20 @@
 <h1 align="center">
 <img  src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp; WELCOME &nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </h1>
+<div align="center">
+<picture >
+  <source srcset="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" type="gif">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</picture>
+<picture>
+  <source srcset="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" type="gif">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</picture>
+<picture >
+  <source srcset="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" type="gif">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</picture></div>
+  
 
 <h2 align="center">I AM AMIYA DAS</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -8,12 +22,27 @@
 <div align="center"><p> visitor </p><img src="https://profile-counter.glitch.me/amiyadas01/count.svg" 
         alt="amiyadas01" loop /> </div>
 
-- 🌱 I’m currently learning **front-end developing**
-
-- 📫 How to reach me **amiyadas708@gmail.com**
+ 
 
 
+<div align="center">
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyadas01&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="amiyadas01's Most Used Languages" />
+</div>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://x.com/amiya__das?s=09" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="amiya das" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/amiya-das-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="amiya das" height="30" width="40" /></a>
+    <a href="https://instagram.com/__amiya__das__" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="__amiya__das__" height="30" width="40" /></a>
+</p>
+
+       
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -33,26 +62,14 @@
              </a> <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
         <img src="http://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png"
             alt="redux_toolkit" width="40" height="40" style={hover:transform-scale-2 }/> </a></p>
-
-<p><img align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyadas01&show_icons=true&locale=en&layout=compact&theme=dark"
-        alt="amiyadas01" /></p>
-<picture>
+            <picture>
   <source srcset="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" type="gif">
   <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" alt="Coding" width="1000" />
 </picture>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://x.com/amiya__das?s=09" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="amiya das" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/amiya-das-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="amiya das" height="30" width="40" /></a>
-    <a href="https://instagram.com/__amiya__das__" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="__amiya__das__" height="30" width="40" /></a>
-</p>
+
+- 🌱 I’m currently learning **front-end developing**
+
+- 📫 How to reach me **amiyadas708@gmail.com**
        
 <!--
 **amiyadas01/amiyadas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
