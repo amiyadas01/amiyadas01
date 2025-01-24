@@ -46,7 +46,10 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyadas01&show_icons=true&locale=en&layout=compact"
         alt="amiyadas01" /></p>
         <img align="center" alt="Coding" width="1000"  margin:auto; src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" autoplay loop>
-        ![Coding](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif)
+<picture>
+  <source srcset="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" type="gif">
+  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" alt="Coding" width="400" />
+</picture>
        
 <!--
 **amiyadas01/amiyadas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
