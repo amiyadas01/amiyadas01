@@ -12,18 +12,7 @@
 
 - 📫 How to reach me **amiyadas708@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://x.com/amiya__das?s=09" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="amiya das" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/amiya-das-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="amiya das" height="30" width="40" /></a>
-    <a href="https://instagram.com/__amiya__das__" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="__amiya__das__" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
@@ -45,13 +34,25 @@
         <img src="http://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png"
             alt="redux_toolkit" width="40" height="40" style={hover:transform-scale-2 }/> </a></p>
 
-<p><img align="center"
+<p><img align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyadas01&show_icons=true&locale=en&layout=compact&theme=dark"
         alt="amiyadas01" /></p>
 <picture>
   <source srcset="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" type="gif">
   <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" alt="Coding" width="1000" />
 </picture>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://x.com/amiya__das?s=09" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="amiya das" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/amiya-das-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="amiya das" height="30" width="40" /></a>
+    <a href="https://instagram.com/__amiya__das__" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="__amiya__das__" height="30" width="40" /></a>
+</p>
        
 <!--
 **amiyadas01/amiyadas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
