@@ -6,8 +6,8 @@
   <source srcset="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" type="gif">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="right" alt="Coding" width="400" />
 </picture>
-<p align="left"> visitor <img src="https://profile-counter.glitch.me/amiyadas01/count.svg" 
-        alt="amiyadas01" loop /> </p>
+<div align="left"><p> visitor </p><img src="https://profile-counter.glitch.me/amiyadas01/count.svg" 
+        alt="amiyadas01" loop /> </div>
 
 - 🌱 I’m currently learning **front-end developing**
 
