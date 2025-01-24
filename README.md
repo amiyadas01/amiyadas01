@@ -2,6 +2,10 @@
 <h1 align="center">welcome,I am&nbsp;&nbsp;&nbsp; Amiya Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" autoplay loop>
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" type="gif">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding" width="400" />
+</picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiyadas01&label=Profile%20views&color=0e75b6&style=flat"
         alt="amiyadas01" loop /> </p>
 
@@ -45,10 +49,9 @@
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyadas01&show_icons=true&locale=en&layout=compact"
         alt="amiyadas01" /></p>
-        <img align="center" alt="Coding" width="1000"  margin:auto; src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" autoplay loop>
 <picture>
   <source srcset="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" type="gif">
-  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" alt="Coding" width="400" />
+  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" alt="Coding" width="1000" />
 </picture>
        
 <!--
