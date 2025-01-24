@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/amiyadas01)
 <h1 align="center">welcome,I am&nbsp;&nbsp;&nbsp; Amiya Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" loop autoplay width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" autoplay loop>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiyadas01&label=Profile%20views&color=0e75b6&style=flat"
         alt="amiyadas01" loop /> </p>
 
@@ -45,7 +45,8 @@
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyadas01&show_icons=true&locale=en&layout=compact"
         alt="amiyadas01" /></p>
-        <img align="center" alt="Coding" loop autoplay width="400" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif">
+        <img align="center" alt="Coding" width="600"  margin:auto; src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" autoplay loop>
+       
 <!--
 **amiyadas01/amiyadas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
