@@ -4,7 +4,7 @@
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" type="gif">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding" width="400" />
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="right" alt="Coding" width="400" />
 </picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiyadas01&label=Profile%20views&color=0e75b6&style=flat"
         alt="amiyadas01" loop /> </p>
