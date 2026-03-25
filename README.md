@@ -92,7 +92,7 @@
   <a href="https://github.com/amiyadas01">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/amiya-kumar-das-">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
